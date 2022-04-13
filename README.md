@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Python, Django & few Machine learning projects, OpenSource
+- 🔭 I’m currently working on Python, Django & a Machine learning project, OpenSource
 - 🌱 I’m currently pursuing B.Tech in Computer Science & Engineering from NIT Andhra Pradesh
 - 👀 I'm interested in Machine Learning, Web Development and Data Structures & Algorithms
 - 👯 I’m looking to collaborate on web related projects
